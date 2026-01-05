@@ -47,12 +47,13 @@ The Arduino then:
 
 ---
 
-## 🧪 Demo
+## 📌 Demo
 
-![Exemplo do sistema](exemple_system.png)
+### 🖼️ System Diagram
+![System Example](exemple_system.png)
 
-<!-- If you have a demo image or GIF, upload it to /images and use: -->
-<!-- ![Demo](images/demo.gif) -->
+### 🎵 Instrument Performance
+![Instrument Demo](perfomance_instrument.gif)
 
 ---
 
