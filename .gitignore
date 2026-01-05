@@ -1,0 +1,25 @@
+# Arduino build files
+*.ino.*
+*.cpp.*
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.pyc
+
+# Backups
+*~
+*.bak
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# PlatformIO build folder
+.pio/
