@@ -48,6 +48,9 @@ The Arduino then:
 ---
 
 ## 🧪 Demo
+
+![Exemplo do sistema](exemple_system.png)
+
 <!-- If you have a demo image or GIF, upload it to /images and use: -->
 <!-- ![Demo](images/demo.gif) -->
 
